@@ -78,11 +78,11 @@ Tinga painting.
 
        {/* The Traveller's Trees */}
 <div className='flex w-full mt-16 sm:mt-20 lg:mt-32 xl:mt-40 flex-col items-center'>
-<p className='text-3xl p-5 font-extralight'>The Traveller's Trees</p>
+<p className='text-3xl p-5 font-extralight'>The Traveller&apos;s Trees</p>
      {/* description */}
 <p className='mb-28 text-center px-8 sm:px-20 lg:px-60 mt-12 text-gray-600 xl:text-xl'>
-This creation celebrates African nature with, featured, her beautiful Traveller's Palm Trees, their capacity to hold rain water as an emergency of drinking supply for live beings.<br/><br/>
-They are surrounded by Birds of Paradise, those flowers with their resemblance to birds from a terrestrial Eden.<br/> <br/>To bring them fantasy, African Green Monkeys were invited to create a frame and offer one Paradise's Bird to their spectators.
+This creation celebrates African nature with, featured, her beautiful Traveller&apos;s Palm Trees, their capacity to hold rain water as an emergency of drinking supply for live beings.<br/><br/>
+They are surrounded by Birds of Paradise, those flowers with their resemblance to birds from a terrestrial Eden.<br/> <br/>To bring them fantasy, African Green Monkeys were invited to create a frame and offer one Paradise&apos;s Bird to their spectators.
             </p>
           <div className='flex w-full items-center justify-center flex-col md:flex-row'>
            
@@ -90,14 +90,14 @@ They are surrounded by Birds of Paradise, those flowers with their resemblance t
             <Link href='https://shop.veromarganne.com/product/the-traveller-tree-grey/' className='h-72 w-72 lg:h-[480px] lg:w-[480px] xl:h-[555px] xl:w-[555px]  relative'>
             <Image src='/the-traveller-tree-grey.webp' alt='hero' layout='fill' objectFit='fill' />
             </Link>
-            <p className='text-center italic'>The Traveller's Trees - Grey</p>
+            <p className='text-center italic'>The Traveller&apos;s Trees - Grey</p>
 
             </div>
             < div className='flex w-full items-center justify-center flex-col'>
             <Link href='https://shop.veromarganne.com/product/the-traveller-tree-orange/' className='h-72 w-72 lg:h-[480px] lg:w-[480px] xl:h-[555px] xl:w-[555px]  relative'>
             <Image src='/the-traveller-tree-orange.webp' alt='hero' layout='fill' objectFit='fill' />
             </Link>
-            <p className='text-center italic'>The Traveller's Trees - Orange</p>
+            <p className='text-center italic'>The Traveller&apos;s Trees - Orange</p>
 
             </div>
 
