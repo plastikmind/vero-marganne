@@ -26,7 +26,7 @@ const Hero = () => {
             <p className='text-3xl min-[1920px]:text-4xl font-medium text-gray-600 mt-3 sm:mt-5'>Scarves</p>
             <div className='mt-5'>
               {/* <button type="button" className="text-white bg-gradient-to-r from-red-200 via-red-300 to-yellow-200 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-red-100 dark:focus:ring-red-400 font-medium  text-sm px-16 py-4 text-center mr-2 mb-2">SHOP NOW</button> */}
-              <Link href='hhttps://shop.veromarganne.com/product-category/scarves/'>
+              <Link href='https://shop.veromarganne.com/product-category/scarves/'>
               <button type="button" className="text-white bg-[#be1e2d] font-medium text-sm px-16 py-4 text-center mr-2 mb-2">SHOP NOW</button>
               </Link>
             </div>
