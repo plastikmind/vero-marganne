@@ -27,14 +27,14 @@ const SarongsHero = () => {
 
 <div className='hidden mt-5 sm:flex sm:absolute sm:-right-[75%] md:-right-[70%] bottom-2 md:bottom-10 lg:bottom-20 xl:bottom-32 lg:md:-right-[60%] min-[1920px]:-right-[80%]'>
 
-        <Link href='https://shop.veromarganne.com/'>
+        <Link href='https://shop.veromarganne.com/product-category/sarongs/'>
           <button type="button" className="text-white bg-[#be1e2d] font-medium text-sm px-16 py-4 text-center mr-2 mb-2">SHOP NOW</button>
           </Link>
       </div>
     </div>
   </div>  
   <div className='flex items-center justify-center'>
- <Link href='https://shop.veromarganne.com/'>
+ <Link href='https://shop.veromarganne.com/product-category/sarongs/'>
  <button type="button" className="block mt-10 sm:hidden text-white bg-[#be1e2d] font-medium text-sm px-16 py-4 text-center mr-2 mb-2">SHOP NOW</button>
  </Link>
 
