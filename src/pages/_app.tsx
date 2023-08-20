@@ -40,8 +40,6 @@ export default function App({ Component, pageProps }: AppProps) {
     `}
 </Script>
 
-
-<Head>
 <Script
         id="fb-pixel"
         strategy="afterInteractive"
@@ -59,6 +57,9 @@ export default function App({ Component, pageProps }: AppProps) {
           `,
         }}
       />
+
+<Head>
+
     <title>Welcome!</title>
     <meta name="viewport" content="initial-scale=1, width=device-width" />
 </Head>
