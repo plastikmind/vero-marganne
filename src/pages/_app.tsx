@@ -40,6 +40,7 @@ export default function App({ Component, pageProps }: AppProps) {
     `}
 </Script>
 
+<header>
 <Script
         id="fb-pixel"
         strategy="afterInteractive"
@@ -57,6 +58,7 @@ export default function App({ Component, pageProps }: AppProps) {
           `,
         }}
       />
+</header>
 
 <Head>
 
