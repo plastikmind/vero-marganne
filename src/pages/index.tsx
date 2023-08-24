@@ -5,6 +5,7 @@ import Header from '../../components/Header'
 import Hero from '../../components/Hero'
 import SarongsHero from '../../components/SarongsHero'
 import Footer from '../../components/Footer'
+import VeroSarongs from '../../components/VeroSarongs'
 
 
 
@@ -24,7 +25,8 @@ export default function Home() {
     <div className='flex flex-col overflow-hidden'>
       <Header />
       <Hero />
-      <SarongsHero />
+      {/* <SarongsHero /> */}
+      <VeroSarongs />
       <Footer />
     </div>
     </>

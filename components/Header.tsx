@@ -10,7 +10,7 @@ const Header = () => {
        </Link>
        {/* Menu */}
        <div>
-          <ul className='flex items-center justify-center mt-5 lg:mt-10 text-[#be1e2d] text-lg sm:text-2xl lg:text-4xl font-extralight'>
+          <ul className='flex items-center justify-center mt-5 lg:mt-10 text-lg sm:text-2xl lg:text-4xl font-extralight'>
             <li className='mr-2 sm:mr-4 lg:mr-8 xl:mr-12 hover:text-[#cd9c5a]'> <Link href="/">Home</Link></li>
             <li className='mr-2 sm:mr-4 lg:mr-8 xl:mr-12 hover:text-[#cd9c5a]'><a href="https://shop.veromarganne.com">Shop</a></li>
             <div>
